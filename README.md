@@ -2,16 +2,16 @@
 
 This repository contains data preprocessing and cleaning steps applied to the Titanic dataset. The goal is to prepare the dataset for machine learning models by handling missing values, encoding categorical features, and performing feature engineering.
 
-## 📁 Project Files
+## Project Files
 
 - `DS Project.ipynb`: Jupyter Notebook with all preprocessing steps.
 - `README.md`: Project overview and documentation.
 
-## 📊 Dataset
+## Dataset
 
 The Titanic dataset is a classic dataset for binary classification tasks and is available on [Kaggle](https://www.kaggle.com/c/titanic/data).
 
-## ⚙️ Preprocessing Steps
+##  Preprocessing Steps
 
 The notebook includes:
 
@@ -22,7 +22,7 @@ The notebook includes:
 - Dropping unnecessary columns
 
 
-## 📌 Requirements
+## Requirements
 
 - Python 3.7+
 - Jupyter Notebook
